@@ -34,7 +34,7 @@ In order to run the program, it is important to setup a server. The `index.html`
 The easiest way to run `index.html` with all its dependencies is to disable the CORS feature in the browser.
 
 #### Setup Server
-Another way to run `index.html` is to setup a temporary server. The easiest way to do this is to use an extension in your preferred IDE that can quickly setup a temparary server.
+Another way to run `index.html` is to setup a temporary server. The easiest way to do this is to use an extension in your preferred IDE that can quickly setup a temporary server.
 
 For example, Visual Studio Code has an extension called `Live Server` that can do this. Simply install this extension, right-click on `index.html` and select `Open with Live Server`.
 
